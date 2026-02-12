@@ -1,2 +1,2 @@
 # Freelance-Platform
-I have created Freelance Platform using C# 
+I have created Freelance window form application using C# 
